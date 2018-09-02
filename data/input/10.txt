@@ -1,0 +1,2 @@
+Ramesh has two sons Monu and Sonu.
+Sonu's age is greater than Monu.Reena is mother of Monu.Reena is wife of ramesh.

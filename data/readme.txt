@@ -1,0 +1,2 @@
+The input files are present in data/input. You have to write the corresponding output files to data/output.
+Please note, the list of input here are not all encompassing, your code will be processed through more non-disclosed test cases. 
