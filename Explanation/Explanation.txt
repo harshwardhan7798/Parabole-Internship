@@ -1,0 +1,8 @@
+Rajdeep’s new idea is that everything in nature is inherently connected. He is trying to create a
+knowledge graph from everything he reads around himself. He calls (read: shouts) the new-joinees to
+help him devise an algorithm which can extract the relationships from English sentences.
+
+1. Analysing the directing statement
+2. tone of arguement
+3. Returning statement by second person
+4. Conclusion from both statements
